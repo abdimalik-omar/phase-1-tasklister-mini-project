@@ -1,22 +1,36 @@
+/* Style for different task priorities */
+.low {
+  background-color: lightgreen;
+}
+
+.medium {
+  background-color: lightyellow;
+}
+
+.high {
+  background-color: lightcoral;
+}
+
+/* Other styles */
 body {
-  background-color: white; /* Light gray background */
+  background-color:antiquewhite;
 }
 
 h1 {
-  color: #3498db; /* Blue header text */
+  color: brown;
 }
 
 p {
-  color: #666666; /* Gray paragraph text */
+  color: #666666;
 }
 
 a {
-  color: #e74c3c; /* Red link text */
+  color: #e74c3c;
 }
 
 button {
-  background-color:black; /* Green button background */
-  color: #ffffff; /* White button text */
+  background-color: brown;
+  color: #ffffff;
   padding: 10px 20px;
   border: none;
   cursor: pointer;
